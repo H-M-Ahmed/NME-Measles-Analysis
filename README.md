@@ -56,7 +56,7 @@ MMR coverage primarily represented kindergarten-entry children; source definitio
 | **Political Characteristic** |  |  |
 | `gop_vote_share_pct_24` | Republican presidential candidate's share of the county-level vote in the 2024 US presidential election (%) | Obtained from the MIT Election Data and Science Lab |
 | **Healthcare Access** |  |  |
-| `phys_nf_prim_care_pc_exc_rsdt_23` | Nonfederal primary care physicians per 100,000 population, excluding residents, 2023 | Obtained from AHRF 2024-2025, `AHRF2025hp`; log-transformed in the models because of a skewed distribution |
+| `phys_nf_prim_care_pc_exc_rsdt_23` | Nonfederal primary care physicians, excluding residents, 2023 | Obtained from AHRF 2024-2025, `AHRF2025hp`; log-transformed in the models because of a skewed distribution |
 
 ## Citation
 
